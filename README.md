@@ -40,7 +40,7 @@ Los usuarios pueden ingresar nombres en una lista y luego realizar un sorteo ale
 1. Clona este repositorio o descarga los archivos.
 
    ```bash
-   git clone https://github.com/alexisciro/amigo-secreto.git
+   git clone https://github.com/alexisciro/amigo_secreto.git
    ```
 
 2. Abre el archivo **index.html** en tu navegador favorito.
@@ -56,7 +56,6 @@ Los usuarios pueden ingresar nombres en una lista y luego realizar un sorteo ale
 * Guardar la lista de amigos en **localStorage**.
 * Permitir que cada persona reciba un amigo secreto distinto (modo real de intercambio).
 * Integrar estilos más personalizados con **Bootstrap** o **TailwindCSS**.
-* Publicar el proyecto en **GitHub Pages** para compartirlo fácilmente.
 
 ---
 
